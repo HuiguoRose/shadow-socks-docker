@@ -34,7 +34,8 @@ If you what run the server in `Docker`
 
 ### Native Version  
 
-* install server : 
+* install server :   
+
 `sudo bash ubuntu_install.sh`
 
 * start ssserver with following Command:  
@@ -52,3 +53,8 @@ If you what run the server in `Docker`
 * Check Shadowsocks log
 
 `less /var/log/shadowsocks.log`
+
+
+## Client  
+
+* Please go to `https://shadowsocks.org/en/download/clients.html`. Download the client.
